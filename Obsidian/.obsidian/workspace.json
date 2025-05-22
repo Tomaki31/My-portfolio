@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f5a00979ef4cd806",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f60659c02ece11b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56edf4b7b36d2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V-модель.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V-модель"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4923e6881edd6879",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b3a874ea1fe81d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a5b328fd862969",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5861329c76337741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Приемочно",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd44a48a9a3258c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c2234a8a72a71647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing at gerenal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing at gerenal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "right": {
+    "id": "61b5321f19815725",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d25c99b105cec3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3309da1c48256532",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Testing"
+            }
+          },
+          {
+            "id": "a445180f7721ce61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Testing"
+            }
+          },
+          {
+            "id": "91cc4132142379fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8eb9ae14ecf7958",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Testing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Testing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b56edf4b7b36d2da",
+  "lastOpenFiles": [
+    "Testing theory.md",
+    "Testing history.md",
+    "Testing at gerenal.md",
+    "Soft skills.md",
+    "SDLC.md",
+    "QA Intro.md",
+    "Тест-кейс.md",
+    "Pasted image 20250215191008.png",
+    "Pasted image 20250215191308.png",
+    "Pasted image 20250215191002.png",
+    "iOS.md",
+    "Hard skills.md",
+    "GUI.md",
+    "CLI.md",
+    "API.md",
+    "Android.md",
+    "Чек-лист.md",
+    "Цели тестирования.md",
+    "Формирование спецификации требований (SRS - Software Requirements Specification).md",
+    "Тест набор (Test suite).md",
+    "Системное интеграционное тестирование (System Integration Testing, SIT).md",
+    "Разработка тестовой документации.md",
+    "Разница QA , QC,  Testing.md",
+    "Процесс планирования и организации качества.md",
+    "Проведение тестов.md",
+    "Принцип работы Windows.md",
+    "Принцип работы Linux.md",
+    "Приемочное тестирование (Acceptance Testing).md",
+    "Позитивное и негативное тестирование.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}
